@@ -1,0 +1,2 @@
+# LgoPool
+Lightweight coroutine pool
