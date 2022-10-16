@@ -9,13 +9,13 @@ To install this package, you need to install Go and set your Go workspace first.
 1. You first need [Go](https://golang.org/) installed, then you can use the below Go command to install Lgopool.
 
 ```sh
-go get -u github.com/L2ncE/LgoPool
+go get -u github.com/LgoLgo/LgoPool
 ```
 
 2. Import it in your code:
 
 ```go
-import "github.com/L2ncE/LgoPool"
+import "github.com/LgoLgo/LgoPool"
 ```
 
 ## Quick start
@@ -32,7 +32,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/L2ncE/LgoPool/pool"
+	"github.com/LgoLgo/LgoPool/pool"
 )
 
 func main() {
