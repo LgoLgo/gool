@@ -1,4 +1,4 @@
-# LgoPool
+# gool
 
 Lightweight goroutine pool / 轻量级Golang协程池
 
@@ -6,16 +6,16 @@ Lightweight goroutine pool / 轻量级Golang协程池
 
 To install this package, you need to install Go and set your Go workspace first.
 
-1. You first need [Go](https://golang.org/) installed, then you can use the below Go command to install Lgopool.
+1. You first need [Go](https://golang.org/) installed, then you can use the below Go command to install gool.
 
 ```sh
-go get -u github.com/LgoLgo/LgoPool
+go get -u github.com/LgoLgo/gool
 ```
 
 2. Import it in your code:
 
 ```go
-import "github.com/LgoLgo/LgoPool"
+import "github.com/LgoLgo/gool"
 ```
 
 ## Quick start
@@ -32,7 +32,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/LgoLgo/LgoPool/pool"
+	"github.com/LgoLgo/gool/pool"
 )
 
 func main() {

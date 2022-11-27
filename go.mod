@@ -1,3 +1,3 @@
-module github.com/LgoLgo/LgoPool
+module github.com/LgoLgo/gool
 
 go 1.18

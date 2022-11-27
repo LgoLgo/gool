@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/LgoLgo/LgoPool/pool"
+	"github.com/LgoLgo/gool/pool"
 )
 
 func main() {
