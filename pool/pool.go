@@ -19,7 +19,7 @@ func NewTask(argF func() error) *Task {
 
 // Execute to execute task
 func (t *Task) Execute() {
-	//Call the method that has been bound in the task
+	// Call the method that has been bound in the task
 	t.f()
 }
 
