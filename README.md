@@ -1,4 +1,4 @@
-# gool
+![gool](img/gool.png)
 
 Lightweight goroutine pool / 轻量级Golang协程池
 
@@ -64,3 +64,7 @@ func main() {
 	p.Run()
 }
 ```
+
+## License
+
+This project is under the Apache License 2.0. See the LICENSE file for the full license text.
